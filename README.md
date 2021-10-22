@@ -1,4 +1,4 @@
-# ToDo list
+# ToDo List
 
 This project presents a simple way to manage your tasks. It involves the implementation of HTML, CSS and JavaScript.
 
