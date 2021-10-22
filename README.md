@@ -2,4 +2,5 @@
 
 This project presents a simple To Do App by implementing HTML, CSS and JavaScript.
 
-![todo_app](assets/img/todo_app.gif)
+
+<p align="center"><img width="50%" src="/assets/img/todo_app.gif"></p>
