@@ -1,4 +1,4 @@
-# To Do App
+# ToDo list
 
 This project presents a simple way to manage your tasks. It involves the implementation of HTML, CSS and JavaScript.
 
@@ -8,4 +8,4 @@ This project presents a simple way to manage your tasks. It involves the impleme
 
 ## Website link
 
-You can see the app here: [toDo](https://denisseee.github.io/toDo/)
+You can see the final state of the project here: [toDo](https://denisseee.github.io/toDo/)
