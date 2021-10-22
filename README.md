@@ -4,7 +4,7 @@ This project presents a simple way to manage your tasks. It involves the impleme
 
 ## Preview
 
-<p align="center"><img width="50%" src="/assets/img/todo_app.gif"></p>
+<p align="center"><img width="100%" src="/assets/img/todo_app.gif"></p>
 
 ## Website link
 
